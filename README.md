@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A passionate Data engineer with over an year of experience in SSIS,SQL Server,Azure Data Factory. Experienced in building robust ETL data piplines, query optimization. I also hold Masters Degree in Electrical and Computer Engineering.
+A passionate Data engineer with over an year of experience in SSIS,SQL Server,Azure Data Factory. Experienced in building robust ETL data piplines, query optimization. I also hold Masters Degree in Electrical and Computer Engineering. Furthermore, I hold certifications in dbt, snowflake & BigData.
 
 
 <!--
